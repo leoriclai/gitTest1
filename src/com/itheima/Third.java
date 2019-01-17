@@ -1,8 +1,7 @@
 package com.itheima;
 
-public class Master {
+public class Third {
     public static void main(String[] args) {
-
-        System.out.println("master  1951");
+        System.out.println("third");
     }
 }
